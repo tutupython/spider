@@ -1,0 +1,57 @@
+name: py36
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+dependencies:
+  - constantly=15.1.0=py36_0
+  - pydispatcher=2.0.5=py36_0
+  - queuelib=1.4.2=py36_0
+  - service_identity=17.0.0=py36_0
+  - twisted=17.5.0=py36_0
+  - zope=1.0=py36_0
+  - asn1crypto=0.24.0=py36_0
+  - attrs=17.4.0=py36_0
+  - automat=0.6.0=py36heb572a9_0
+  - ca-certificates=2017.08.26=h94faf87_0
+  - certifi=2018.1.18=py36_0
+  - cffi=1.11.5=py36h945400d_0
+  - colorama=0.3.9=py36he9a059a_0
+  - cryptography=2.1.4=py36hd94e34c_0
+  - cssselect=1.0.3=py36_0
+  - hyperlink=18.0.0=py36_0
+  - idna=2.6=py36h787667b_1
+  - incremental=17.5.0=py36h08178a5_0
+  - libiconv=1.15=hc4a7105_7
+  - libxml2=2.9.7=h79bbb47_0
+  - libxslt=1.1.32=hf6f1972_0
+  - lxml=4.1.1=py36hef2cd61_1
+  - openssl=1.0.2n=h74b6da3_0
+  - parsel=1.4.0=py36_0
+  - pip=9.0.1=py36_5
+  - pluggy=0.6.0=py36hbdfd5d1_0
+  - py=1.5.2=py36haf3ed0d_0
+  - pyasn1=0.4.2=py36hfc9b75a_0
+  - pyasn1-modules=0.2.1=py36h0df2c79_0
+  - pycparser=2.18=py36h315bf61_1
+  - pyopenssl=17.5.0=py36h98b3c51_0
+  - pytest=3.4.2=py36_0
+  - pytest-runner=4.0=py36_0
+  - python=3.6.4=h0c2934d_3
+  - pywin32=222=py36hfa6e2cd_0
+  - scrapy=1.5.0=py36_0
+  - setuptools=38.5.1=py36_0
+  - six=1.11.0=py36h7f2c006_1
+  - vc=14=h0510ff6_3
+  - vs2015_runtime=14.0.25123=3
+  - w3lib=1.19.0=py36_0
+  - wheel=0.30.0=py36h1201a8d_1
+  - wincertstore=0.2=py36hcdd9a18_0
+  - zlib=1.2.11=hbb18732_2
+  - zope.interface=4.4.3=py36h0e06f40_0
+  - pip:
+    - typedecorator==0.0.5
+prefix: C:\ProgramData\Anaconda3\envs\py36
+
