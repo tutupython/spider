@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/movie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tencent_job" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/py36_venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv1" />
